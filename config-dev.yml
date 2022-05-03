@@ -1,2 +1,4 @@
 config:
-  info: mian config,version=3
+  info: mian config,version=4
+server:
+  port: 3366
